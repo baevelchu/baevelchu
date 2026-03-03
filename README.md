@@ -18,7 +18,7 @@
   <a href="https://tiktok.com/@baevelchu" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://mochamadziyuarlian.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
