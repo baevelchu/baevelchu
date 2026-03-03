@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ziyu 👋</h1>
 
-<!--
-**baevelchu/baevelchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer | Web Developer | Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 D3 Rekayasa Perangkat Lunak Aplikasi
+- 💻 Focus on Web Development
+- 📍 Indonesia
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/mochamadziyuarlian">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/ziyuarl">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
