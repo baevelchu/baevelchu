@@ -18,6 +18,9 @@
   <a href="https://tiktok.com/@baevelchu" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -55,4 +58,4 @@
 
 ## 📫 Let's Connect
 
-If you're interested in collaboration, freelance projects, or full-time opportunities, feel free to reach out through LinkedIn.
+If you're interested in collaboration, freelance projects, or full-time opportunities, feel free to reach out through LinkedIn or visit my portfolio website.
