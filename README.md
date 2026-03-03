@@ -71,104 +71,27 @@
 </p>
 </div>
 
-<!-- GitHub Stats with Advanced Cards -->
-<h2>📊 GitHub Analytics</h2>
+<!-- GitHub Stats - Preserved as Original -->
+<h2>📊 GitHub Stats</h2>
 
-<div align="center">
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baevelchu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&card_width=300" height="150" alt="languages graph" />
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-<!-- GitHub Streak Stats -->
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baevelchu&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baevelchu&layout=compact&theme=tokyonight" width="48%" />
 </p>
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baevelchu&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="activity graph"/>
-</div>
-
-<!-- Featured Projects Section -->
-<h2>🚀 Featured Projects</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project 1</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://via.placeholder.com/400x200/1a1b27/38BDAE?text=Project+Preview" width="100%" alt="Project 1"/>
-</a>
-
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-38BDAE?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>HTML, CSS, JavaScript</strong> - A brief description of your amazing project goes here. Highlight the key features and technologies used.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Project 2</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://via.placeholder.com/400x200/1a1b27/38BDAE?text=Project+Preview" width="100%" alt="Project 2"/>
-</a>
-
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-38BDAE?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>PHP, MySQL</strong> - A brief description of your amazing project goes here. Highlight the key features and technologies used.</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Achievements Section -->
-<h2>🏆 GitHub Achievements</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=baevelchu&theme=tokyonight&no-frame=true&row=2&column=4" width="90%" alt="trophy"/>
-</div>
-
-<!-- Recent Activity Section -->
-<details>
-<summary><h2>📈 Recent GitHub Activity</h2></summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in repo-name
-2. 💪 Opened PR #2 in repo-name
-3. 🔥 Pushed 3 commits to repo-name
-4. 🎉 Created new repository repo-name
-5. ❗ Closed issue #5 in repo-name
-<!--END_SECTION:activity-->
-</details>
 
 <!-- Connect Section with Animated Footer -->
-<h2>🤝 Let's Connect & Collaborate</h2>
+<h2>📫 Let's Connect</h2>
 
 <div align="center">
-<p>If you're interested in collaboration, freelance projects, or full-time opportunities, feel free to reach out!</p>
+<p>If you're interested in collaboration, freelance projects, or full-time opportunities, feel free to reach out through LinkedIn or visit my portfolio website.</p>
 <a href="https://linkedin.com/in/mochamadziyuarlian" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:your.email@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://discord.com/users/yourdiscord" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://dev.to/baevelchu" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<a href="https://mochamadziyuarlian.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </div>
 
@@ -178,7 +101,4 @@
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Let's+build+something+amazing+✨;Always+open+to+collaboration+🤝;" />
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/baevelchu/baevelchu/output/snake.svg" alt="Snake animation" />
 </p>
