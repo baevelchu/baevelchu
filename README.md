@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🎓 D3 Rekayasa Perangkat Lunak Aplikasi
-- 💻 Focus on Web Development
+- 💻 Focus on Web Development, UI/UX Designer
 - 📍 Indonesia
 
 ---
