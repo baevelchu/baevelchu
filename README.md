@@ -87,7 +87,7 @@
 <a href="https://linkedin.com/in/mochamadziyuarlian" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:arlianziyu@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://mochamadziyuarlian.netlify.app" target="_blank">
