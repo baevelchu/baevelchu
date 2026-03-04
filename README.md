@@ -19,7 +19,6 @@
     <li>🚀 Tertarik membangun produk digital yang clean, scalable, dan user-centered</li>
     <li>🤝 Terbuka untuk kolaborasi open source & project web inovatif</li>
 </ul>
-</div>
 
 ---
 
@@ -27,17 +26,17 @@
 
 ### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ### 🛠️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,laravel,express" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,laravel,express" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ### 📚 Database & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,figma,photoshop" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
 
 ---
