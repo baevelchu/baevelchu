@@ -12,14 +12,13 @@
 
 ## 📖 About Me
 
-<div align="center">
-  <ul>
+<ul>
     <li>🎓 D3 Rekayasa Perangkat Lunak Aplikasi</li>
     <li>💻 Fokus pada Web Development & UI/UX Design</li>
     <li>🌱 Sedang memperdalam Advanced JavaScript & Cloud Technologies</li>
     <li>🚀 Tertarik membangun produk digital yang clean, scalable, dan user-centered</li>
     <li>🤝 Terbuka untuk kolaborasi open source & project web inovatif</li>
-  </ul>
+</ul>
 </div>
 
 ---
