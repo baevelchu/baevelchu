@@ -16,65 +16,138 @@
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🎓 **D3 Rekayasa Perangkat Lunak Aplikasi**
-- 💻 Fokus pada **Web Development & UI/UX Design**
-- 🌱 Sedang memperdalam **Advanced JavaScript & Cloud Technologies**
-- ⚡ Tertarik membangun **produk digital yang clean, scalable, dan user-centered**
-- 🤝 Terbuka untuk **Open Source Collaboration & Professional Opportunities**
+🎓 D3 **Rekayasa Perangkat Lunak Aplikasi**
 
----
+Saya fokus pada pengembangan **Web Application** dan **UI/UX Design** dengan pendekatan yang mengutamakan pengalaman pengguna serta arsitektur yang scalable.
 
-### 🛠 Tech Stack
-
-**Frontend**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" /> 
-</p>
-
-**Backend**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=php,nodejs,python,java,laravel,express" /> 
-</p>
-
-**Database & Tools**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,figma,photoshop,vscode" /> 
-</p>
+Saat ini saya tertarik membangun produk digital yang tidak hanya berjalan dengan baik secara teknis, tetapi juga **clean, usable, dan user-centered**.
 
 ---
 
-### 📊 GitHub Statistics & Activity
+# 🎯 Current Focus
 
+- Improving **Advanced JavaScript**
+- Learning **Cloud Deployment & Modern Web Stack**
+- Building **Real-world Web Applications**
+- Exploring **UI/UX driven development**
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baevelchu&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
 </p>
 
+### Backend
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baevelchu&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,java,laravel,express" />
 </p>
 
+### Database & Tools
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baevelchu&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,figma,photoshop,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+Website portfolio pribadi untuk menampilkan project dan skill.
+
+🔗 https://mochamadziyuarlian.netlify.app
+
+Tech Stack  
+HTML • CSS • JavaScript
+
+---
+
+### 📋 Task Management Web App
+Aplikasi manajemen tugas berbasis web untuk mengelola pekerjaan secara efisien.
+
+Tech Stack  
+Laravel • MySQL • Bootstrap
+
+---
+
+### 🎨 UI/UX Dashboard Design
+Desain dashboard admin dengan pendekatan user-centered design.
+
+Tools  
+Figma
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/mochamadziyuarlian"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="mailto:arlianziyu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="https://mochamadziyuarlian.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a>
-  <a href="https://instagram.com/ziyuarl"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baevelchu&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <i>💡 Fun Fact: Saya senang menggabungkan Software Engineering + UI/UX + Digital Creativity untuk membangun produk digital yang bukan hanya berjalan baik tetapi juga menyenangkan digunakan oleh user.</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baevelchu&theme=tokyonight"/>
 </p>
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baevelchu&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=baevelchu&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mochamadziyuarlian">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arlianziyu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://mochamadziyuarlian.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ziyuarl">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>💡 Fun Fact: Saya senang menggabungkan Software Engineering + UI/UX + Digital Creativity untuk membangun produk digital yang bukan hanya berjalan baik tetapi juga menyenangkan digunakan oleh user.</i>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
