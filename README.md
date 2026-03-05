@@ -82,15 +82,6 @@ Figma
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baevelchu&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
