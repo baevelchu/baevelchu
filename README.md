@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=baevelchu&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" />
   <img src="https://img.shields.io/badge/Open%20for-Collaboration-blue" />
-  <img src="https://img.shields.io/github/followers/baevelchu?label=Followers&color=blue" />
 </p>
 
 <p align="center">
