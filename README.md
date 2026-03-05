@@ -59,7 +59,7 @@ Saat ini saya tertarik membangun produk digital yang tidak hanya berjalan dengan
 ### 🌐 Personal Portfolio
 Website portfolio pribadi untuk menampilkan project dan skill.
 
-🔗 https://mochamadziyuarlian.netlify.app
+🔗 https://ziyuarlian.netlify.app
 
 Tech Stack  
 HTML • CSS • JavaScript
