@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Building+clean+%26+scalable+web+apps+%E2%9C%A8;UI%2FUX-driven+development+%F0%9F%8E%A8;Open+to+work+%26+collaboration+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%7C+Web+%7C+UI%2FUX+%F0%9F%8E%A8;Vue.js+%C2%B7+Kotlin+%C2%B7+Laravel+%C2%B7+Nuxt.js;Clean+code%2C+usable+products+%E2%9C%A8;Open+to+work+%26+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
@@ -27,12 +27,15 @@
 
 ```typescript
 const ziyu = {
-  education : "D3 Rekayasa Perangkat Lunak Aplikasi",
-  focus     : ["Web Application", "UI/UX Design"],
-  approach  : "User-centered · Scalable · Clean Code",
-  currently : "Building real-world digital products",
-  belief    : "Great software should be usable AND beautiful",
-  funFact   : "I blend Engineering + Design + Creativity 🎨",
+  name      : "Mochamad Ziyu Arlian",
+  role      : ["Full Stack Developer", "Android Dev", "UI/UX Enthusiast"],
+  education : "D3 Rekayasa Perangkat Lunak Aplikasi · Telkom University · IPK 3.50",
+  stack     : ["Kotlin", "Vue.js", "Nuxt.js", "Laravel", "PHP", "MySQL"],
+  experience: ["Universitas Muhammadiyah Bandung", "Telkom Direktorat Digital Business"],
+  approach  : "End-to-end · User-centered · Scalable · Clean Code",
+  belief    : "Kode terbaik bukan yang paling pintar, tapi yang paling mudah dipahami",
+  openTo    : ["Full-time", "Kontrak", "Freelance", "Kolaborasi", "Remote"],
+  location  : "Bandung, Indonesia 🇮🇩",
 };
 ```
 
@@ -55,14 +58,75 @@ const ziyu = {
 
 <div align="center">
 
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vue&theme=dark" />
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma&theme=dark" />
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,java,laravel,express&theme=dark" />
+### 🖥️ Frontend & Web
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs,bootstrap,tailwind&theme=dark" />
 
-### 🗄️ Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,figma,photoshop,vscode&theme=dark" />
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,firebase&theme=dark" />
+
+### 🔧 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## ✦ Work Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Universitas Muhammadiyah Bandung
+**Full Stack Android Developer** · `2024 – 2025`
+
+> Membangun aplikasi Android kampus end-to-end — autentikasi terpusat, manajemen akademik dinamis, dan notifikasi realtime untuk 3 role pengguna.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Room DB](https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PHP/MySQL](https://img.shields.io/badge/PHP%2FMySQL-777BB4?style=flat-square&logo=php&logoColor=white)
+
+📈 Efisiensi operasional **↑70%** · Crash rate **↓** drastis
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Telkom Direktorat Digital Business
+**Front-End Developer** · Divisi Produk Digital · `2024`
+
+> Membangun antarmuka 3+ produk digital internal dari Figma ke production. Membuat reusable component library dan berkolaborasi dalam tim agile sprint mingguan.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+🎨 **3+ produk** digital · Pixel-perfect Figma → Code
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✦ Career Highlights
+
+<div align="center">
+
+| 🎓 IPK | 💼 Pengalaman | 📦 Produk Digital | 🛠 Tech Stack | 📱 Roles Handled |
+|:---:|:---:|:---:|:---:|:---:|
+| **3.50 / 4.00** | **1+ Tahun** | **6+ Proyek** | **15+ Tools** | **Android · Web · UI/UX** |
+| Telkom University | End-to-end Dev | Mobile & Web | Full Stack | Solo & Team |
 
 </div>
 
@@ -76,8 +140,74 @@ const ziyu = {
 <tr>
 <td width="50%" valign="top">
 
+### 📱 Aplikasi Mobile Kampus UMB
+> Android end-to-end app untuk UMB — 3 role pengguna, notifikasi realtime, offline-first dengan Room DB.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Room DB](https://img.shields.io/badge/Room_DB-003B57?style=flat-square)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP%2FMySQL-777BB4?style=flat-square&logo=php&logoColor=white)
+
+📈 **+70% efisiensi** · Android 7–14 compatible
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 DigitalPass.id — Web Improvement
+> Peningkatan menyeluruh website DigitalPass.id: refactoring, performa, UI/UX, dan responsivitas.
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+🔗 **[Live Site →](https://www.digitalpass.id/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Website DPM KEMA FKS Telkom
+> Website resmi organisasi mahasiswa FKS Telkom University — informatif, responsif, dan profesional.
+
+![Web Dev](https://img.shields.io/badge/Web_Dev-e34c26?style=flat-square&logo=html5&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-1572B6?style=flat-square&logo=css3&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+🔗 **[Live Site →](https://dpmkemafkstelkomuniversity.my.id/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Catch — VR Horror Adventure Game
+> Game petualangan horor berbasis VR oleh Swancorner. Eksplorasi bangunan angker, puzzle, dan atmosfer immersive.
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+![Android](https://img.shields.io/badge/VR%2FAndroid-3DDC84?style=flat-square&logo=android&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+🔗 **[itch.io](https://swancorner.itch.io/catch)** · **[Trailer](https://youtu.be/4MlsyK8NRQY)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Jigsaw Puzzlee — Edukasi Sejarah Islam
+> Game mobile jigsaw interaktif sebagai media edukasi sejarah Islam. Proyek Akhir D3.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game_Dev-FF6B6B?style=flat-square)
+
+🎓 Tugas Proyek Akhir
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 Personal Portfolio
-> Website portfolio pribadi untuk menampilkan project dan skill secara profesional.
+> Website portfolio pribadi yang menampilkan project, pengalaman, dan skill secara profesional dan responsif.
 
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -86,59 +216,8 @@ const ziyu = {
 🔗 **[Live Demo →](https://ziyuarlian.netlify.app)**
 
 </td>
-<td width="50%" valign="top">
-
-### 📋 Task Management Web App
-> Aplikasi manajemen tugas berbasis web untuk mengelola pekerjaan secara efisien.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX Dashboard Design
-> Desain dashboard admin dengan pendekatan **user-centered design** yang clean dan intuitif.
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 More Coming Soon...
-> Currently working on new projects. Stay tuned!
-
-![WIP](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square)
-
-</td>
 </tr>
 </table>
-
-</div>
-
----
-
-## ✦ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baevelchu&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=ffffff&dates=6b7280" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=baevelchu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=f97316&text_color=ffffff&ring_color=7c3aed" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baevelchu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" width="40%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baevelchu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f97316" width="98%"/>
 
 </div>
 
