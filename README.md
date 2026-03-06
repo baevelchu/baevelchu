@@ -25,19 +25,26 @@
 
 ## ✦ About Me
 
-```typescript
-const ziyu = {
-  name      : "Mochamad Ziyu Arlian",
-  role      : ["Full Stack Developer", "Android Dev", "UI/UX Enthusiast"],
-  education : "D3 Rekayasa Perangkat Lunak Aplikasi · Telkom University · IPK 3.50",
-  stack     : ["Kotlin", "Vue.js", "Nuxt.js", "Laravel", "PHP", "MySQL"],
-  experience: ["Universitas Muhammadiyah Bandung", "Telkom Direktorat Digital Business"],
-  approach  : "End-to-end · User-centered · Scalable · Clean Code",
-  belief    : "Kode terbaik bukan yang paling pintar, tapi yang paling mudah dipahami",
-  openTo    : ["Full-time", "Kontrak", "Freelance", "Kolaborasi", "Remote"],
-  location  : "Bandung, Indonesia 🇮🇩",
-};
-```
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/wakatime?username=baevelchu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=compact" />
+
+👋 Halo! Saya **Mochamad Ziyu Arlian**, Full Stack Developer dari **Bandung, Indonesia 🇮🇩**
+
+Lulusan **D3 Rekayasa Perangkat Lunak Aplikasi · Telkom University** dengan IPK **3.50 / 4.00**.
+
+Saya berpengalaman membangun solusi digital end-to-end — dari aplikasi **Android native** menggunakan Kotlin, hingga web frontend dengan **Vue.js & Nuxt.js** di lingkungan corporate.
+
+> *"Kode terbaik bukan yang paling pintar, tapi yang paling mudah dipahami."*
+
+<br>
+
+| | |
+|---|---|
+| 🏢 **Terakhir di** | Telkom Direktorat Digital Business |
+| 🎓 **Pendidikan** | Telkom University · IPK 3.50 |
+| 📍 **Lokasi** | Bandung, Jawa Barat, Indonesia |
+| 💼 **Open To** | Full-time · Kontrak · Freelance · Remote |
+| ⚡ **Hobi** | Hip-hop 🎵 · Horror film 🎬 · Strategy game 🎮 |
+| 📬 **Kontak** | arlianziyu@gmail.com |
 
 ---
 
